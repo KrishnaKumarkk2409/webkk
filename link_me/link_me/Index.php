@@ -3,7 +3,7 @@
 link me</title>
 <head> <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
 <style>body {
-  background-image: url("https://source.unsplash.com/720x600/?community,lbtq,rainbow heart");
+  background-image: url("https://source.unsplash.com/720x600/?black pictures,blank pictures,3d black");
 }
 </style>
 </head>
